@@ -24,11 +24,11 @@ https://github.com/Dax083/filesharee
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dax083/filesharee)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/inj1429/filesharee)</br>
 
 #### Deploy in your VPS
 ````bash
-git https://github.com/Dax083/filesharee
+git https://github.com/inj1429/filesharee
 cd FileSharing-Restu
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
