@@ -11,39 +11,39 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Isi Bot token, Dapatkan dari t.me/BotFather",
-      "value": ""
+      "value": "5501145966:AAGhBp7hx_bzVU12YrHT0gq-J42SO4NJmHo"
     },
     "OWNER": {
       "description": "Isi Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "ReszXD"
+      "value": "Aigis27"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "1721561586"
+      "value": "5452595928"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
-      "value": ""
+      "value": "5452595928"
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
-      "value": ""
+      "value": "18133229"
     },
     "API_HASH": {
       "description": "Dapatkan API HASH di web my.telegram.org",
-      "value": ""
+      "value": "417214fb1f60c65436c34aa46f04f8f0"
     },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
-      "value": "-100"
+      "value": "-1001621310873"
     },
     "FORCE_SUB_CHANNEL": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
-      "value": "-100"
+      "value": "-1001656598500"
     },
     "FORCE_SUB_GROUP": {
       "description": "Masukan ID dari Group Untuk Wajib Subscribenya",
-      "value": "-100"
+      "value": "-1001710264482"
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
@@ -55,12 +55,12 @@
     },
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "BotPushch",
+      "value": "enaenagratisan",
       "required": false
     },
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "InfoBotShr",
+      "value": "enaenagroup",
       "required": false
     }
   },
